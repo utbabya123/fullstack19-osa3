@@ -1,1 +1,1 @@
-https://lit-escarpment-17846.herokuapp.com/api/persons
+https://lit-escarpment-17846.herokuapp.com
